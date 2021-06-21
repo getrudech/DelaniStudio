@@ -26,9 +26,14 @@ body {
 .overlay > img, .h-text {
     position: relative;
     top: 33%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 .h-text{
     font-family: 'Comfortaa', cursive;
+    text-align: center;
 }
 .smaller-text{
     font-family: 'Ubuntu Mono', monospace;
