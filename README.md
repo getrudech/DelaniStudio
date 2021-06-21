@@ -12,13 +12,23 @@ https://getrudech.github.io/DelaniStudio/
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/Owiti-Charles/Delani-Studio/master/images/delanihome.png" width="900px" height="440px">
+ <img src="https://raw.githubusercontent.com/getrudech/DelaniStudio/master/images/Screenshot from 2021-06-21 14-23-55.png " width="900px" height="440px"> 
+
+<img src="https://raw.githubusercontent.com/getrudech/DelaniStudio/master/images/backgrounds/Screenshot from 2021-06-21 14-25-59.png" width="900px" height="440px">  
+
+<img src="https://raw.githubusercontent.com/getrudech/DelaniStudio/master/images/backgrounds/Screenshot from 2021-06-21 14-26-14.png " width="900px" height="440px"> 
+
+<img src="https://raw.githubusercontent.com/getrudech/DelaniStudio/master/images/backgrounds/Screenshot from 2021-06-21 14-26-41.png" width="900px" height="440px">
+
+
+
 
 <img src=" ../images/Screenshot from 2021-06-21 14-23-55.png " width="900px" height="440px">
 <img src="https://raw.githubusercontent.com/getrudech/DelaniStudio/master/images/backgrounds/Screenshot from 2021-06-21 14-25-59.png " width="900px" height="440px">
 <img src=" images/backgrounds/Screenshot from 2021-06-21 14-26-14.png " width="900px" height="440px">
 <img src=" images/backgrounds/Screenshot from 2021-06-21 14-26-41.png" width="900px" height="440px">
 <img src="https://raw.githubusercontent.com/getrudech/DelaniStudio/gh-pages/images/backgrounds/Screenshot from 2021-06-21 14-25-59.png " width="900px" height="440px">
+
 ## Setup/Installation Requirements
 - copy the url on arrow down
 - Clone on your computer
