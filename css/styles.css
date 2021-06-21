@@ -76,10 +76,16 @@ body {
 }
 
 .about h1 {
-    margin-top: 30px;
+    margin-top: 70px;
+    margin-bottom: 0%;
     text-align: center;
 }
-
+.next{
+    text-align: center;
+}
+p {
+    margin-top:-5px;
+}
 .services {
     background-image: url("../images/backgrounds/s_image.jpg");
     height: 280px;
