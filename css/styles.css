@@ -34,6 +34,7 @@ body {
 .h-text{
     font-family: 'Comfortaa', cursive;
     text-align: center;
+    text-transform: uppercase;
 }
 .smaller-text{
     font-family: 'Ubuntu Mono', monospace;
@@ -53,6 +54,9 @@ body {
 }
 #bounce {
     animation: bounce 3s infinite;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 @keyframes bounce {
