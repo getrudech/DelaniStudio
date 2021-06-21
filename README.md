@@ -25,7 +25,7 @@ https://getrudech.github.io/DelaniStudio/
 - Clone on your computer
 - Go live or start your server
 ## Known Bugs
-Video and Audio elements not well styled
+No known bugs so far
 ## Technologies Used
 - HTML5
 - CSS
