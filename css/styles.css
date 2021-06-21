@@ -120,7 +120,7 @@ figcaption{
 }
 
 .portfolio {
-    /*height: 650px;*/
+    
     padding-bottom: 50px;
 }
 
@@ -193,7 +193,7 @@ input.error {
     width: auto;
     position: absolute;
     bottom: 0;
-    color: deepskyblue;
+    color: gold;
     text-align: center;
     font-weight: bold;
     font-size: 30px;
