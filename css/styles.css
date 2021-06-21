@@ -83,25 +83,32 @@ body {
 .next{
     text-align: center;
 }
-p {
+.p {
     margin-top:-5px;
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .services {
     background-image: url("../images/backgrounds/s_image.jpg");
-    height: 280px;
+    height: 400px;
 }
 
 .services h1 {
-    position: relative;
-    top: 30px;
-    margin-bottom: 20px;
+    /* position: relative; */
+    /* top: 85px; */
+    padding-top: 80px;
+    color: white;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 .small-overlay {
     background-color: rgba(0, 0, 0, 0.7);
-    height: 280px;
+    height: 400px;
+    color: white;
 }
 
 
