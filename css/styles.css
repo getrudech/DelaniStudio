@@ -53,23 +53,13 @@ body {
     height: 668px;
 }
 #bounce {
-    animation: bounce 3s infinite;
+    
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-@keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
-        transform: translateY(0);
-    }
-    40% {
-        transform: translateY(-55px);
-    }
-    60% {
-        transform: translateY(-45px);
-    }
-}
+
 
 .about {
     height: 250px;
@@ -91,6 +81,7 @@ body {
 .services {
     background-image: url("../images/backgrounds/s_image.jpg");
     height: 400px;
+    line-height: 1.6;
 }
 
 .services h1 {
